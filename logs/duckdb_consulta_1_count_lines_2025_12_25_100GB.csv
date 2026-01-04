@@ -1,0 +1,10 @@
+timestamp,cpu_usage_percent,container_memory_used_mb,container_memory_limit_mb,container_memory_percent,python_rss_mb,spark_ram_usage_mb,script_name
+2025-12-25 20:08:58,0.0,63.44140625,16384.0,0.38721561431884766,40.30859375,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:08:59,6.2,68.38671875,16384.0,0.41739940643310547,44.4921875,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:00,6.1,71.91015625,16384.0,0.4389047622680664,46.33984375,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:01,5.9,74.56640625,16384.0,0.45511722564697266,47.6953125,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:02,4.6,77.125,16384.0,0.470733642578125,49.02734375,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:03,5.6,79.77734375,16384.0,0.4869222640991211,50.36328125,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:04,4.6,82.171875,16384.0,0.5015373229980469,51.5703125,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:05,5.0,84.2890625,16384.0,0.5144596099853516,52.7578125,0,duckdb_incremental_consulta_1_count_lines
+2025-12-25 20:09:06,4.4,86.69921875,16384.0,0.529170036315918,53.984375,0,duckdb_incremental_consulta_1_count_lines
